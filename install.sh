@@ -9,7 +9,7 @@ git clone https://github.com/VadimRM7/PUBLIC/wallet/leep_wallet25.git
 cd leep_wallet25
 npm install
 
-node createwallet.js
+node create_wallet.js
 
 sleep 60
 
